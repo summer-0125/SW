@@ -1,0 +1,26 @@
+
+/* 폰트를 두껍게 하려면 700 또는 bold */
+.b-weight{
+  font-weight: bold;
+}  
+
+
+.italic{
+  font-style: italic;
+}
+
+
+.delete{
+  text-decoration: line-through; /* 글 가운데 줄*/
+}
+
+
+
+.underline{
+  text-decoration: underline; /* 글 아래에 밑줄 */
+}
+
+
+.txt-Tag{
+  background-color: yellow;
+}

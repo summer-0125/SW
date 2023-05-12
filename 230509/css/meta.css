@@ -1,0 +1,35 @@
+
+/* div{
+  border : 테두리를 넣어주는 속성   두께 / 선종류 / 색상
+  top, bottom, right, left를 명시하지 않을 경우 상하좌우에 다 들어간다. */
+  /* border: 2px solid blue;
+  border-top: 2px solid black;
+  border-bottom: 2px solid red;
+  border-right: 2px solid green;
+  border-left: 2px solid blue;
+}*/
+
+.txt-green{
+  /* css에서 class명으로 스타일을 변경할 때에는 꼭 .을 붙여줘야 한다. */
+  color: green;
+  border: 2px solid pink;
+}
+
+.txt-blue{
+  border: 2px solid red;
+  border-radius: 10px;
+  background-color: red;
+  color: white;
+}
+
+.shop{
+  background-color: #000;
+  color: #fff;
+}
+
+.menuList{
+  width: 200px;
+  border: 2px solid green;
+  border-radius: 10px;
+  color: #fff;
+}
