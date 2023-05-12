@@ -1,0 +1,21 @@
+body{
+  background: #000;
+}
+
+.google{
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 100px; /* 박스 안쪽 위에 여백 생김 */
+  /* margin-top: 100px;  박스 바깥쪽 위에 여백 생김 */
+}
+
+img{
+  width: 300px;
+}
+
+.white-bgc{
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 15px;
+}
